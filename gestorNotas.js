@@ -80,13 +80,13 @@ function eliminarNota(titulo) {
 
 // Ejecución de ejemplo
 console.log('\n--- Agregando una nota nueva ---');
-agregarNota('Compras', 'Comprar leche y pan.');
+agregarNota('Compras', 'Comprar leche, pan y una vida.');
 
 console.log('\n--- Listando todas las notas ---');
 listarNotas();
 
 console.log('\n--- Agregando otra nota ---');
-agregarNota('Trabajo', 'Terminar reporte semanal.');
+agregarNota('Trabajo', 'Terminar la tarea de calculo.');
 
 console.log('\n--- Listando todas las notas ---');
 listarNotas();
